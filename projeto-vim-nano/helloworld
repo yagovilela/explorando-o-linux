@@ -1,0 +1,24 @@
+Olá, mundo!
+
+Este é meu primeiro arquivo no Linux e estou editando-o no vim!
+
+
+Comandos aprendidos:
+
+mkdir - criar diretórios
+
+cd - navegar entre diretórios
+
+ls - listar arquivos
+
+Comandos aprendidos no vim:
+
+i - inserir texto
+
+:wq - salvar e sair
+
+:q! - sair sem salvar
+
+dd - excluir a linha inteira
+
+u - desfazer
