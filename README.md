@@ -6,3 +6,6 @@ Este repositório contém uma coleção de projetos e comandos úteis que estou 
 
 ### 1. **Projeto 1: Editando com Vim & Nano**
 Neste projeto, estou aprendendo comandos básicos do Linux para gerenciar arquivos, diretórios e sistemas de arquivos, além de explorar as permissões de arquivos e usuários**
+
+### 2. **Projeto 2: Gerenciamento de usuários e grupos**
+Este projeto tem como objetivo exercitar o gerenciamento de usuários e grupos em sistemas Linux. As tarefas incluem a criação de contas de usuários, definição de senhas, organização em grupos conforme cargos e permissões, e verificação dos acessos.
