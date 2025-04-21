@@ -9,3 +9,6 @@ Neste projeto, estou aprendendo comandos básicos do Linux para gerenciar arquiv
 
 ### 2. **Projeto 2: Gerenciamento de usuários e grupos**
 Este projeto tem como objetivo exercitar o gerenciamento de usuários e grupos em sistemas Linux. As tarefas incluem a criação de contas de usuários, definição de senhas, organização em grupos conforme cargos e permissões, e verificação dos acessos.
+
+### 3. **Projeto 3: Estrutura e Organização de Pastas no Linux
+Neste projeto, pratiquei a criação e reorganização de diretórios e arquivos via terminal Linux.
